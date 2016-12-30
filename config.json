@@ -1,0 +1,5 @@
+{
+  "tts": {
+    "download_directory": "./tts_cache/"
+  }
+}
